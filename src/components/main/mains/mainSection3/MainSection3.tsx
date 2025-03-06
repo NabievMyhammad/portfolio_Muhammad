@@ -9,18 +9,7 @@ function MainSection3() {
   return (
 
    <  Container>
-    <section id="portfolio" className={styles.portfolio}>
-    <h2>Portfolio</h2>
-    <div className={styles.portfolioItems}>
-     <div className={styles.foto}><img /></div> 
-     <div className={styles.foto1}><img /></div> 
-     <div className={styles.foto2}><img /></div> 
-   
-     
-
-
-    </div> 
-  </section>
+    
 
 
 
