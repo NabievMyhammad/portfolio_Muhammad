@@ -1,6 +1,6 @@
 import React from 'react'
-import styles from "./MainSection3.module.css"
-import { Container } from 'react-bootstrap'
+import styles from "./MainSection3.module.css";
+import { Container } from 'react-bootstrap';
 
 
 function MainSection3() {

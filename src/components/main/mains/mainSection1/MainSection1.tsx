@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './MainSection1.module.css'
+import styles from './MainSection1.module.css';
 import { Container, Row, Col, Card, Button,  } from "react-bootstrap";
 
 
